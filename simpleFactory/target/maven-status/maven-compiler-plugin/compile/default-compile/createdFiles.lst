@@ -1,0 +1,8 @@
+com\manqingxing\simpleFactory\impl\Rectangle.class
+com\manqingxing\simpleFactory\Shape.class
+com\manqingxing\simpleFactory\impl\Square.class
+com\manqingxing\simpleFactory\TestSimpleFactory.class
+com\manqingxing\simpleFactory\enums\ShapeType.class
+com\manqingxing\simpleFactory\ShapeFactory$1.class
+com\manqingxing\simpleFactory\ShapeFactory.class
+com\manqingxing\simpleFactory\impl\Circle.class
