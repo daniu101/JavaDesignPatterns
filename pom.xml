@@ -26,5 +26,6 @@
   	<module>simpleFactory</module>
   	<module>observer</module>
   	<module>abstractFactory</module>
+  	<module>strategy</module>
   </modules>
 </project>

@@ -8,9 +8,9 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>com.manqingxing</groupId>
-  <artifactId>simpleFactory</artifactId>
+  <artifactId>strategy</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>simpleFactory</name>
+  <name>strategy</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
